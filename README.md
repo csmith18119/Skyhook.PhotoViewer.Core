@@ -1,0 +1,2 @@
+Skyhook.PhotoViewer.Core
+========================
